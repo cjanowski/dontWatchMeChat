@@ -37,7 +37,7 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 ## Usage
 
 Start the development server:
-Copynpm start
+npm start
 
 Open your browser and navigate to http://localhost:3000
 Start chatting securely!
@@ -48,6 +48,6 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 Disclaimer
 While dontWatchMe Chat implements end-to-end encryption, no system is 100% secure. Use at your own risk and avoid sharing sensitive information.
-Contact
-### If you have any questions or feedback, please open an issue on this repository.
-Happy Secure Chatting!
+##Contact
+If you have any questions or feedback, please open an issue on this repository.
+# Happy Secure Chatting!
