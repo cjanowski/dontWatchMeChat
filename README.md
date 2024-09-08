@@ -17,13 +17,13 @@ A Firebase account and project
 ## Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/dontWatchMeChat.git
+git clone https://github.com/cjanowski/dontWatchMeChat.git
 cd dontWatchMeChat
 
 ### Install the dependencies:
 npm install
 
-Set up your Firebase configuration:
+### Set up your Firebase configuration:
 
 Create a .env file in the root directory
 Add your Firebase configuration:
