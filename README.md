@@ -2,10 +2,10 @@
 ### dontWatchMe Chat is an end-to-end encrypted messaging application built with React and Firebase. It prioritizes user privacy by implementing client-side encryption, ensuring that messages are secure from the moment they leave the sender's device until they are decrypted on the recipient's device.
 ## Features
 
-End-to-end encryption using RSA-OAEP
-Real-time messaging with Firebase Realtime Database
-Anonymous authentication for enhanced privacy
-Simple and intuitive user interface
+- End-to-end encryption using RSA-OAEP
+- Real-time messaging with Firebase Realtime Database
+- Anonymous authentication for enhanced privacy
+- Simple and intuitive user interface
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
@@ -42,9 +42,7 @@ npm start
 Open your browser and navigate to http://localhost:3000
 Start chatting securely!
 
-### Contributing
-Contributions to dontWatchMe Chat are welcome. Please feel free to submit a Pull Request.
-License
+### CLicense
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 Disclaimer
 While dontWatchMe Chat implements end-to-end encryption, no system is 100% secure. Use at your own risk and avoid sharing sensitive information.
